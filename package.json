@@ -1,0 +1,14 @@
+{
+  "name": "slick-licks-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "hono": "^4.0.0",
+    "@hono/node-server": "^1.0.0",
+    "openai": "^4.0.0",
+    "replicate": "^0.32.0"
+  }
+}
